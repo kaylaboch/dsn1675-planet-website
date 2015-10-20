@@ -44,14 +44,37 @@ img{
 h1{
   text-align:center;
 }
+.nav{
+  background-color:lightgrey;
+}
+@media only screen and (min-width: 27em){
+  .underven{
+    clear:both;
+  }
+
+}
 @media only screen and (min-width: 38em){
   .nav{
     text-align:right;
-    float:right;
-    clear:both;
     padding:0;
   }
   h1{
     float:left;
+  }
+  .ven{
+    padding:0;
+    margin:0;
+    overflow:hidden;
+  }
+  img{
+    width:100%;
+    overflow:hidden;
+  }
+  .venus{
+    overflow:hidden;
+    width:100%;
+  }
+  .underven{
+    padding:1em;
   }
 }
