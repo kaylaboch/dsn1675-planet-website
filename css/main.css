@@ -55,6 +55,7 @@ h1{
 }
 .navi{
   background-color:lightgrey;
+  padding:1em;
 }
 .navii{
   color:blue;
@@ -91,5 +92,8 @@ h1{
   }
   .navi{
     text-align:center;
+  }
+  .hh{
+    text-align:left;
   }
 }
