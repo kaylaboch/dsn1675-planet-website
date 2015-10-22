@@ -44,6 +44,10 @@ img{
 h1{
   text-align:center;
 }
+h2{
+  text-align:left;
+  margin:0;
+}
 .nav{
   background-color:lightgrey;
 }
@@ -59,6 +63,11 @@ h1{
 }
 .navii{
   color:blue;
+  text-align:left;
+}
+..underven{
+  margin:0;
+  padding:0;
 }
 @media only screen and (min-width: 27em){
   .underven{
