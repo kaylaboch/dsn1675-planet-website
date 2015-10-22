@@ -47,6 +47,15 @@ h1{
 .nav{
   background-color:lightgrey;
 }
+.h{
+  text-align:left;
+}
+.hh{
+  text-align:center;
+}
+.navi{
+  background-color:lightgrey;
+}
 @media only screen and (min-width: 27em){
   .underven{
     clear:both;
